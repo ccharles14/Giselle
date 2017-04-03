@@ -1,7 +1,7 @@
 /*
  * 	Georges.h
  *
- *	Author: Corentin CHARLES & Renji ZHANG
+ *	Author: Le grand Corentin CHARLES & Renji ZHANG
  *
  *	Version 1.0
  *	Blabla
